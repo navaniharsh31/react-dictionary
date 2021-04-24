@@ -6,6 +6,10 @@ made using MaterialUI and [FreeDictionaryAPI](https://dictionaryapi.dev/)
 ### Dark Mode
 ![darkMode](https://i.ibb.co/hWpBwfV/darkMode.png)
 
+### Light Mode
+![lightMode](https://i.ibb.co/5FXfCYH/light-Mode.png)
+
+
 ## Cloning and Running the Application in local
 
 Clone the project into local

@@ -4,7 +4,7 @@ made using MaterialUI and [FreeDictionaryAPI](https://dictionaryapi.dev/)
 ## Screenshots
 
 ### Dark Mode
-![darkMode] (https://i.ibb.co/hWpBwfV/darkMode.png)
+![darkMode](https://i.ibb.co/hWpBwfV/darkMode.png)
 
 ## Cloning and Running the Application in local
 

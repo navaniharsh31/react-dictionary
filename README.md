@@ -1,6 +1,8 @@
 # A very basic dictionary react app
 made using MaterialUI and [FreeDictionaryAPI](https://dictionaryapi.dev/)
 
+#### View live demo [here](https://reactdictionaryrobo.netlify.app/)
+
 ## Screenshots
 
 ### Dark Mode
